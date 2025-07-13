@@ -1,15 +1,17 @@
-#Java Console Application
-This project contains simple Java programs demonstrating:
+# Java Console Application
+  This project contains simple Java programs demonstrating:
 
--Command-line arguments (CommandLineargs.java)
+   -Command-line arguments (CommandLineargs.java)
 
--Education details using classes (EducationDetails.java)
+   -Education details using classes (EducationDetails.java)
 
--Family details using classes (FamilyDetails.java)
+   -Family details using classes (FamilyDetails.java)
 
-##How to Compile and Run
+## How to Compile and Run
+
 To compile and run the file:
-'''dash
+
+```bash
 javac file_name.java
 java file_name
 
